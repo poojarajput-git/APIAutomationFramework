@@ -55,6 +55,7 @@ public class getUsers {
         String password  = JSONReader.getTestData("password");
         System.out.println(username);
         System.out.println(password);
+        System.out.println(password);
     }
 
 
