@@ -7,7 +7,9 @@ public enum statusCode {
     BAD_REQUEST(400, "bad request sent");
 
 
+
     public final int code;
+
     public final String message;
 
     statusCode(int code, String message) {
